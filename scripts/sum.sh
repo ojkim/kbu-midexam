@@ -7,5 +7,5 @@ else
   for n in "$@"; do
     sum=$((sum + n))
   done
-  echo "$sum"
+  echo "$sum" 
 fi
